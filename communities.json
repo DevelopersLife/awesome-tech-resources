@@ -1,0 +1,36 @@
+[
+  {
+    "name": "DevelopersLife",
+    "description": "La community di Developer, aspiranti Developer e semplici curiosi!",
+    "logo_file": "developerslife.png",
+    "homepage_url": "https://developerslife.dev",
+    "place": "online",
+    "primary_language": "Italian",
+    "topics": [
+      "Developer",
+      "Formazione",
+      "Lavoro"
+    ],
+    "extra": {
+      "chat_url": "t.me/developerslifechannel",
+      "youtube_url": "youtube.com/c/DevelopersLifeChannel",
+      "other": [{
+        "name": "DevelopersLife Chan",
+        "description": "Canale DevelopersLife su Telegram per ricevere le novità da DevelopersLife",
+        "url": "t.me/developersLifeChan"
+      }, {
+          "name": "DevelopersLife Eventi",
+          "description": "Canale DevelopersLife su Telegram per ricevere informazioni su eventi",
+          "url": "t.me/developersLifeChan"
+      }, {
+        "name": "DevelopersLife Offerte",
+        "description": "Canale DevelopersLife su Telegram per ricevere offerte di lavoro",
+        "url": "t.me/developersLifeChan"
+      }, {
+        "name": "DevelopersLife Instagram",
+        "description": "Il profilo Instagram di DevelopersLife",
+        "url": "instagram.com/developerslifechannel/"
+      }]
+    }
+  }
+]

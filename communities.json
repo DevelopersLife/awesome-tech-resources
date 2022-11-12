@@ -32,5 +32,24 @@
         "url": "instagram.com/developerslifechannel/"
       }]
     }
+  },
+  {
+    "name": "We Are Devs",
+    "description": "Community italiana sul mondo front-end, e non solo...",
+    "logo_file": "wearedevs.png",
+    "homepage_url": "https://www.fabiobiondi.dev/",
+    "place": "online",
+    "primary_language": "Italian",
+    "topics": [
+      "javascript",
+      "angular",
+      "react",
+      "vue",
+      "mobile"
+    ],
+    "extra": {
+      "chat_url": "https://t.me/we_are_devs",
+      "youtube_url": "https://www.youtube.com/c/FabioBiondi"
+    }
   }
 ]

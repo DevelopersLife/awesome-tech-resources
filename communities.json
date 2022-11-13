@@ -69,5 +69,22 @@
     "extra": {
       "chat_url": "https://t.me/ptkdev_support_italian"
     }
+  },
+  {
+    "name": "The Odin Project",
+    "description": "A community of learners helping each other learn to code. Based on the free curriculum found at https://www.theodinproject.com",
+    "logo_file": "theodinproject.png",
+    "homepage_url": "https://www.theodinproject.com/",
+    "place": "online",
+    "primary_language": "English",
+    "topics": [
+        "front-end",
+        "back-end"
+    ],
+    "extra": {
+        "twitter_url": "https://twitter.com/theodinproject",
+        "facebook_url": "https://www.facebook.com/theodinproject/",
+        "chat_url": "https://discord.gg/theodinproject"
+    }
   }
 ]

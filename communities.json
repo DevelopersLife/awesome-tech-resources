@@ -51,5 +51,23 @@
       "chat_url": "https://t.me/we_are_devs",
       "youtube_url": "https://www.youtube.com/c/FabioBiondi"
     }
+  },
+  {
+    "name": "Open Source Support - by @ptkdev",
+    "description": "Meme sui dev e il coding, community di aiuto, guide e tutorial sulla programmazione.",
+    "logo_file": "opensourcesupport.png",
+    "homepage_url": "https://ptk.dev/",
+    "place": "online",
+    "primary_language": "Italian",
+    "topics": [
+      "front-end",
+      "opensource",
+      "back-end",
+      "mobile",
+      "devops"
+    ],
+    "extra": {
+      "chat_url": "https://t.me/ptkdev_support_italian"
+    }
   }
 ]
